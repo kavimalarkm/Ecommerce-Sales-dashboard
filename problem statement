@@ -1,0 +1,5 @@
+E-commerce companies generate a large amount of sales data every day from different regions, product categories, customers, and payment methods. However, this raw data is often difficult to interpret and analyze quickly. Without proper visualization and analysis, businesses cannot easily identify sales trends, customer purchasing patterns, or the performance of products and regions.
+
+The objective of this project is to develop an interactive E-Commerce Sales Dashboard that analyzes historical sales data and presents key business insights using data visualization tools such as Power BI / Tableau / Excel. The dashboard will help stakeholders monitor important metrics such as total sales, profit, orders, top-selling products, regional performance, and customer segments.
+
+By transforming raw sales data into meaningful visual insights, the dashboard will enable businesses to track performance, identify high-demand products, understand customer behavior, and support data-driven decision making.
